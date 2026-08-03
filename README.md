@@ -17,7 +17,7 @@ Many Nigerian SMEs rely on assumptions rather than customer data when making mar
 
 ## Dashboard Preview
 
-![Dashboard Preview](Dashboard.jpg)
+![Dashboard Preview](Dashboard.JPG)
 
 ## Key Insights
 
